@@ -1,6 +1,6 @@
-<h1 style="text-align: center;"> Shoppie eCommerce Template </h1>
+<h1> Shoppie eCommerce Template </h1>
 
-<p style="text-align: center;">Shoppie is a fully responsive ecommerce website,
+<p>Shoppie is a fully responsive ecommerce website,
 Responsive for all devices, build using HTML, CSS, and JavaScript.</p>
 
 <a href="https://shoppie-iota.vercel.app/"> Live Demo </a>
